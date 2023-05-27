@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0523nishant&label=Profile%20views&color=0e75b6&style=flat" alt="0523nishant" /> </p>
 
-- 👨 View my portfolio [https://portfolio0523.netlify.app/](https://portfolio0523.netlify.app/)
+- 👨 View my portfolio [Portfolio](https://portfolio0523.netlify.app/)
 
-- 📫 Contact me Through **nishantgupta0523@gmail.com**
+- 📫 Contact me Through **Gmail**
 
-- 📄 Give a look to my resume [https://drive.google.com/file/d/11cmP7Q0ut_-hoSFNSs5oYsu17EwSDAcg/view?usp=share_link](https://drive.google.com/file/d/11cmP7Q0ut_-hoSFNSs5oYsu17EwSDAcg/view?usp=share_link)
+- 📄 Give a look to my resume [Resume](https://drive.google.com/file/d/11cmP7Q0ut_-hoSFNSs5oYsu17EwSDAcg/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
