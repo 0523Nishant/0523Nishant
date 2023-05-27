@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Gupta</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0523nishant&label=Profile%20views&color=0e75b6&style=flat" alt="0523nishant" /> </p>
 
