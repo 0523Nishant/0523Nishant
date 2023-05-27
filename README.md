@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0523nishant&label=Profile%20views&color=0e75b6&style=flat" alt="0523nishant" /> </p>
 
-- 👨 View my portfolio [Portfolio](https://portfolio0523.netlify.app/)
+- 👨 View my portfolio <b>[Portfolio](https://portfolio0523.netlify.app/)</b>
 
 - 📫 Contact me through <b><a href="mailto:Nishantgupta0523@gmail.com">Gmail</a></b>
 
-- 📄 Give a look to my resume [Resume](https://drive.google.com/file/d/11cmP7Q0ut_-hoSFNSs5oYsu17EwSDAcg/view?usp=share_link)
+- 📄 Give a look to my resume <b> [Resume](https://drive.google.com/file/d/11cmP7Q0ut_-hoSFNSs5oYsu17EwSDAcg/view?usp=share_link)</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
