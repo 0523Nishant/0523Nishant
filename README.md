@@ -5,7 +5,7 @@
 
 - 👨 View my portfolio [Portfolio](https://portfolio0523.netlify.app/)
 
-- 📫 Contact me Through **Gmail**
+- 📫 Contact me through <b><a href="mailto:Nishantgupta0523@gmail.com">Gmail</a></b>
 
 - 📄 Give a look to my resume [Resume](https://drive.google.com/file/d/11cmP7Q0ut_-hoSFNSs5oYsu17EwSDAcg/view?usp=share_link)
 
