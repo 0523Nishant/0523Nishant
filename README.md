@@ -11,7 +11,7 @@
 - 📫 Contact me through <b><a href="mailto:Nishantgupta0523@gmail.com">Gmail</a></b>
 
 - 📄 Give a look to my resume <b> [Resume](https://drive.google.com/file/d/11cmP7Q0ut_-hoSFNSs5oYsu17EwSDAcg/view?usp=share_link)</b>
-<img align="center" alt="Coding" width="480" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nishantgupta2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantgupta2002" height="30" width="40" /></a>
